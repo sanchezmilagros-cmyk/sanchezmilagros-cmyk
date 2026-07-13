@@ -83,15 +83,6 @@ Status: ONLINE 🟢
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 🚀 FEATURED PROJECTS
 
