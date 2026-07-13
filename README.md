@@ -1,69 +1,146 @@
 <div align="center">
 
-# ⚡ MILI
+# ⚡ Hola, Soy Mili
 
-### Front-End Developer • UI Lover • Web Creator
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Frontend+Developer;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+modern+websites.;Learning+every+day.;HTML+%7C+CSS+%7C+JavaScript" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F7FF,50:7B2FF7,100:FF00C8&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## // ABOUT_ME
+# 🛰 SYSTEM STATUS
 
-```javascript
-const mili = {
-    location: "Argentina",
-    role: "Frontend Student",
-    learning: ["JavaScript", "Git", "GitHub"],
-    passions: [
-        "Web Design",
-        "Urban Fashion",
-        "Creative Projects"
-    ],
-    motto: "Keep creating."
-}
+```yaml
+Name: Mili
+Country: Argentina 🇦🇷
+Role: Front-End Developer
+Currently Learning:
+  - JavaScript
+  - Git
+  - GitHub
+
+Focus:
+  - UI Design
+  - Responsive Websites
+  - Modern Interfaces
+
+Status: ONLINE 🟢
 ```
 
 ---
 
-## // TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-## // GITHUB
+# 💻 TECH STACK
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma&theme=dark"/>
 
 </p>
 
 ---
 
-## // ACTIVITY
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## // QUOTE
+# 🔥 STREAK
 
-> "Good design is invisible. Great design is unforgettable."
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ Tienda Lúmina
+
+Modern clothing store made with:
+
+- HTML
+- CSS
+- JavaScript
+
+</td>
+
+<td width="50%">
+
+### 💡 Future Projects
+
+- Portfolio
+- Dashboard
+- Landing Pages
+- UI Components
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/TU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for stopping by!
+## ⚡ MOTTO
+
+> *"Code. Create. Improve. Repeat."*
+
 
 </div>
