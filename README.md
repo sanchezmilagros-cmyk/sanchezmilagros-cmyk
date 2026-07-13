@@ -1,91 +1,147 @@
-# Hola, soy Mili 👋
+<div align="center">
 
-```txt
-> Iniciando perfil...
+# ⚡ MILI.exe
 
-Estado: En línea
-Ubicación: Argentina
-Rol: Estudiante de Desarrollo Web
-Objetivo: Aprender, crear y mejorar todos los días.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Frontend+Developer;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
 
-Sistema iniciado correctamente.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F7FF,50:7B2FF7,100:FF00C8&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+# 🛰 SYSTEM STATUS
+
+```yaml
+Name: Mili
+Country: Argentina 🇦🇷
+Role: Front-End Developer
+Currently Learning:
+  - JavaScript
+  - Git
+  - GitHub
+
+Focus:
+  - UI Design
+  - Responsive Websites
+  - Modern Interfaces
+
+Status: ONLINE 🟢
 ```
 
 ---
 
-## 👩‍💻 Sobre mí
+# 💻 TECH STACK
 
-Soy estudiante de programación y me interesa el desarrollo web. Disfruto crear sitios modernos, aprender nuevas tecnologías y convertir ideas en proyectos funcionales.
+<p align="center">
 
-Actualmente estoy aprendiendo:
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma&theme=dark"/>
 
+</p>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 STREAK
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ Tienda Lúmina
+
+Modern clothing store made with:
+
+- HTML
+- CSS
 - JavaScript
-- Git y GitHub
-- Diseño web responsive
+
+</td>
+
+<td width="50%">
+
+### 💡 Future Projects
+
+- Portfolio
+- Dashboard
+- Landing Pages
+- UI Components
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tecnologías
+# 🌐 CONNECT
 
-### Lenguajes
-- HTML5
-- CSS3
-- JavaScript
+<p align="center">
 
-### Herramientas
-- Visual Studio Code
-- Git
-- GitHub
+<a href="https://github.com/TU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
-## 📂 Proyectos
+<div align="center">
 
-### 🛍 Tienda Lúmina
-Tienda online de ropa desarrollada con HTML, CSS y JavaScript.
+## ⚡ MOTTO
 
-Características:
-- Diseño moderno
-- Catálogo de productos
-- Carrito de compras
-- Vista de detalle
+> *"Code. Create. Improve. Repeat."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00F7FF,50:7B2FF7,100:FF00C8"/>
 
-## 📚 Actualmente
-
-```txt
-[✓] HTML
-[✓] CSS
-[●] JavaScript
-[ ] React
-[ ] Node.js
-```
-
----
-
-## 🎯 Objetivos
-
-- Crear proyectos completos.
-- Mejorar mis conocimientos en JavaScript.
-- Aprender nuevas tecnologías.
-- Construir un portafolio profesional.
-
----
-
-## 💡 Filosofía
-
-> "Cada proyecto es una oportunidad para aprender algo nuevo."
-
----
-
-## 📫 Contacto
-
-GitHub:
-https://github.com/TU_USUARIO
-
----
-
-```txt
-Gracias por visitar mi perfil.
-```
+</div>
