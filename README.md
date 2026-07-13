@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**# 👋 ¡Hola! Soy Mili
+# 👋 ¡Hola! Soy Mili
 
 💻 Estudiante de programación y desarrollo web.
 🚀 Me gusta crear páginas web modernas y aprender nuevas tecnologías.
