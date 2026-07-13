@@ -1,117 +1,91 @@
-<div align="center">
+# Hola, soy Mili 👋
 
-# ⚡ Hola, Soy Mili
+```txt
+> Iniciando perfil...
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Frontend+Developer;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
+Estado: En línea
+Ubicación: Argentina
+Rol: Estudiante de Desarrollo Web
+Objetivo: Aprender, crear y mejorar todos los días.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F7FF,50:7B2FF7,100:FF00C8&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
----
-
-# 🛰 SYSTEM STATUS
-
-```yaml
-Name: Mili
-Country: Argentina 🇦🇷
-Role: Front-End Developer
-Currently Learning:
-  - JavaScript
-  - Git
-  - GitHub
-
-Focus:
-  - UI Design
-  - Responsive Websites
-  - Modern Interfaces
-
-Status: ONLINE 🟢
+Sistema iniciado correctamente.
 ```
 
 ---
 
-# 💻 TECH STACK
+## 👩‍💻 Sobre mí
 
-<p align="center">
+Soy estudiante de programación y me interesa el desarrollo web. Disfruto crear sitios modernos, aprender nuevas tecnologías y convertir ideas en proyectos funcionales.
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma&theme=dark"/>
+Actualmente estoy aprendiendo:
 
-</p>
-
----
-
-
-# 🔥 STREAK
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
+- JavaScript
+- Git y GitHub
+- Diseño web responsive
 
 ---
 
+## 🛠 Tecnologías
 
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-
-# 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ Tienda Lúmina
-
-Modern clothing store made with:
-
-- HTML
-- CSS
+### Lenguajes
+- HTML5
+- CSS3
 - JavaScript
 
-</td>
-
-<td width="50%">
-
-### 💡 Future Projects
-
-- Portfolio
-- Dashboard
-- Landing Pages
-- UI Components
-
-</td>
-</tr>
-</table>
+### Herramientas
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
-# 🌐 CONNECT
+## 📂 Proyectos
 
-<p align="center">
+### 🛍 Tienda Lúmina
+Tienda online de ropa desarrollada con HTML, CSS y JavaScript.
 
-<a href="https://github.com/TU_USUARIO">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+Características:
+- Diseño moderno
+- Catálogo de productos
+- Carrito de compras
+- Vista de detalle
 
 ---
 
-<div align="center">
+## 📚 Actualmente
 
-## ⚡ MOTTO
+```txt
+[✓] HTML
+[✓] CSS
+[●] JavaScript
+[ ] React
+[ ] Node.js
+```
 
-> *"Code. Create. Improve. Repeat."*
+---
 
+## 🎯 Objetivos
 
-</div>
+- Crear proyectos completos.
+- Mejorar mis conocimientos en JavaScript.
+- Aprender nuevas tecnologías.
+- Construir un portafolio profesional.
+
+---
+
+## 💡 Filosofía
+
+> "Cada proyecto es una oportunidad para aprender algo nuevo."
+
+---
+
+## 📫 Contacto
+
+GitHub:
+https://github.com/TU_USUARIO
+
+---
+
+```txt
+Gracias por visitar mi perfil.
+```
