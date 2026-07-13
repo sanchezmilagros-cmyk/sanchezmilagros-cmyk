@@ -1,58 +1,69 @@
+<div align="center">
 
-<!--
-**sanchezmilagros-cmyk/sanchezmilagros-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ MILI
 
-Here are some ideas to get you started:
+### Front-End Developer • UI Lover • Web Creator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 ¡Hola! Soy Mili
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+modern+websites.;Learning+every+day.;HTML+%7C+CSS+%7C+JavaScript" />
 
-💻 Estudiante de programación y desarrollo web.
-🚀 Me gusta crear páginas web modernas y aprender nuevas tecnologías.
+</div>
 
 ---
 
-## 🚀 Tecnologías que uso
+## // ABOUT_ME
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## 📂 Proyectos
-
-### 🛍️ Tienda Lúmina
-Sitio web de una tienda de ropa urbana desarrollado con:
-- HTML
-- CSS
-- JavaScript
-
-### 🎨 Diseños Urbanos
-Diseños de prendas estilo urbano y oversize.
+```javascript
+const mili = {
+    location: "Argentina",
+    role: "Frontend Student",
+    learning: ["JavaScript", "Git", "GitHub"],
+    passions: [
+        "Web Design",
+        "Urban Fashion",
+        "Creative Projects"
+    ],
+    motto: "Keep creating."
+}
+```
 
 ---
 
-## 🔥 Racha
+## // TECH STACK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 🌎 Contacto
+## // GITHUB
 
-- GitHub: https://github.com/TU_USUARIO
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+## // ACTIVITY
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## // QUOTE
+
+> "Good design is invisible. Great design is unforgettable."
+
+---
+
+<div align="center">
+
+⭐ Thanks for stopping by!
+
+</div>
