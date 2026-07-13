@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ MILI.exe
+# ⚡ Hola, soy Mili
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Frontend+Developer;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
 
