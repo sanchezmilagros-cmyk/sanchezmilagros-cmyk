@@ -41,15 +41,6 @@ Diseños de prendas estilo urbano y oversize.
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
 ## 🔥 Racha
 
 <p align="center">
